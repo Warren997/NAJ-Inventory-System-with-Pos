@@ -1,0 +1,526 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+NAJ Inventory System
+</name>
+</assembly>
+<members>
+<member name="T:WindowsApplication1.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.NAJ_LOGO">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___Add_Product_HistoryDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___Add_Product_HistoryDataSet.Add_Product_HistoryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___Add_Product_HistoryDataSet.Add_Product_HistoryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___Add_Product_HistoryDataSet.Add_Product_HistoryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___Add_Product_HistoryDataSetTableAdapters.Add_Product_HistoryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___Add_Product_HistoryDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:WindowsApplication1._NAJ_DB___Add_Product_HistoryDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(WindowsApplication1._NAJ_DB___Add_Product_HistoryDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:WindowsApplication1._NAJ_DB___Add_Product_HistoryDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(WindowsApplication1._NAJ_DB___Add_Product_HistoryDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:WindowsApplication1._NAJ_DB___Add_Product_HistoryDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(WindowsApplication1._NAJ_DB___Add_Product_HistoryDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:WindowsApplication1._NAJ_DB___Add_Product_HistoryDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:WindowsApplication1._NAJ_DB___Add_Product_HistoryDataSetTableAdapters.TableAdapterManager.UpdateAll(WindowsApplication1._NAJ_DB___Add_Product_HistoryDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___Add_Product_HistoryDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___Add_Product_HistoryDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___Add_Stock_HistoryDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___Add_Stock_HistoryDataSet.Add_Stock_HistoryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___Add_Stock_HistoryDataSet.Add_Stock_HistoryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___Add_Stock_HistoryDataSet.Add_Stock_HistoryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___Add_Stock_HistoryDataSetTableAdapters.Add_Stock_HistoryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___Add_Stock_HistoryDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:WindowsApplication1._NAJ_DB___Add_Stock_HistoryDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(WindowsApplication1._NAJ_DB___Add_Stock_HistoryDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:WindowsApplication1._NAJ_DB___Add_Stock_HistoryDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(WindowsApplication1._NAJ_DB___Add_Stock_HistoryDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:WindowsApplication1._NAJ_DB___Add_Stock_HistoryDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(WindowsApplication1._NAJ_DB___Add_Stock_HistoryDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:WindowsApplication1._NAJ_DB___Add_Stock_HistoryDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:WindowsApplication1._NAJ_DB___Add_Stock_HistoryDataSetTableAdapters.TableAdapterManager.UpdateAll(WindowsApplication1._NAJ_DB___Add_Stock_HistoryDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___Add_Stock_HistoryDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___Add_Stock_HistoryDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___InventoryDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___InventoryDataSet.AccountsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___InventoryDataSet.Accounts_AdminDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___InventoryDataSet.InventoryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___InventoryDataSet.AccountsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___InventoryDataSet.Accounts_AdminRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___InventoryDataSet.InventoryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___InventoryDataSet.AccountsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___InventoryDataSet.Accounts_AdminRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___InventoryDataSet.InventoryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___InventoryDataSetTableAdapters.AccountsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___InventoryDataSetTableAdapters.Accounts_AdminTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___InventoryDataSetTableAdapters.InventoryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___InventoryDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:WindowsApplication1._NAJ_DB___InventoryDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(WindowsApplication1._NAJ_DB___InventoryDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:WindowsApplication1._NAJ_DB___InventoryDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(WindowsApplication1._NAJ_DB___InventoryDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:WindowsApplication1._NAJ_DB___InventoryDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(WindowsApplication1._NAJ_DB___InventoryDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:WindowsApplication1._NAJ_DB___InventoryDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:WindowsApplication1._NAJ_DB___InventoryDataSetTableAdapters.TableAdapterManager.UpdateAll(WindowsApplication1._NAJ_DB___InventoryDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___InventoryDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___InventoryDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___Purchased_ReportDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___Purchased_ReportDataSet.Purchased_ReportDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___Purchased_ReportDataSet.Purchased_ReportRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___Purchased_ReportDataSet.Purchased_ReportRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___Purchased_ReportDataSetTableAdapters.Purchased_ReportTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___Purchased_ReportDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:WindowsApplication1._NAJ_DB___Purchased_ReportDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(WindowsApplication1._NAJ_DB___Purchased_ReportDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:WindowsApplication1._NAJ_DB___Purchased_ReportDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(WindowsApplication1._NAJ_DB___Purchased_ReportDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:WindowsApplication1._NAJ_DB___Purchased_ReportDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(WindowsApplication1._NAJ_DB___Purchased_ReportDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:WindowsApplication1._NAJ_DB___Purchased_ReportDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:WindowsApplication1._NAJ_DB___Purchased_ReportDataSetTableAdapters.TableAdapterManager.UpdateAll(WindowsApplication1._NAJ_DB___Purchased_ReportDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___Purchased_ReportDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___Purchased_ReportDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___Purchased_ReportDataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___Purchased_ReportDataSet1.Purchased_ReportDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___Purchased_ReportDataSet1.Purchased_ReportRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___Purchased_ReportDataSet1.Purchased_ReportRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___Purchased_ReportDataSet1TableAdapters.Purchased_ReportTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___Purchased_ReportDataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:WindowsApplication1._NAJ_DB___Purchased_ReportDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(WindowsApplication1._NAJ_DB___Purchased_ReportDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:WindowsApplication1._NAJ_DB___Purchased_ReportDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(WindowsApplication1._NAJ_DB___Purchased_ReportDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:WindowsApplication1._NAJ_DB___Purchased_ReportDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(WindowsApplication1._NAJ_DB___Purchased_ReportDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:WindowsApplication1._NAJ_DB___Purchased_ReportDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:WindowsApplication1._NAJ_DB___Purchased_ReportDataSet1TableAdapters.TableAdapterManager.UpdateAll(WindowsApplication1._NAJ_DB___Purchased_ReportDataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___Purchased_ReportDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___Purchased_ReportDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___QR_LabelsDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___QR_LabelsDataSet.QR_LabelsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___QR_LabelsDataSet.QR_LabelsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___QR_LabelsDataSet.QR_LabelsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___QR_LabelsDataSetTableAdapters.QR_LabelsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___QR_LabelsDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:WindowsApplication1._NAJ_DB___QR_LabelsDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(WindowsApplication1._NAJ_DB___QR_LabelsDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:WindowsApplication1._NAJ_DB___QR_LabelsDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(WindowsApplication1._NAJ_DB___QR_LabelsDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:WindowsApplication1._NAJ_DB___QR_LabelsDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(WindowsApplication1._NAJ_DB___QR_LabelsDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:WindowsApplication1._NAJ_DB___QR_LabelsDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:WindowsApplication1._NAJ_DB___QR_LabelsDataSetTableAdapters.TableAdapterManager.UpdateAll(WindowsApplication1._NAJ_DB___QR_LabelsDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___QR_LabelsDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___QR_LabelsDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___Returned_ItemsDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___Returned_ItemsDataSet.Returned_ItemsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___Returned_ItemsDataSet.Returned_ItemsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___Returned_ItemsDataSet.Returned_ItemsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___Returned_ItemsDataSetTableAdapters.Returned_ItemsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___Returned_ItemsDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:WindowsApplication1._NAJ_DB___Returned_ItemsDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(WindowsApplication1._NAJ_DB___Returned_ItemsDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:WindowsApplication1._NAJ_DB___Returned_ItemsDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(WindowsApplication1._NAJ_DB___Returned_ItemsDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:WindowsApplication1._NAJ_DB___Returned_ItemsDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(WindowsApplication1._NAJ_DB___Returned_ItemsDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:WindowsApplication1._NAJ_DB___Returned_ItemsDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:WindowsApplication1._NAJ_DB___Returned_ItemsDataSetTableAdapters.TableAdapterManager.UpdateAll(WindowsApplication1._NAJ_DB___Returned_ItemsDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___Returned_ItemsDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:WindowsApplication1._NAJ_DB___Returned_ItemsDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

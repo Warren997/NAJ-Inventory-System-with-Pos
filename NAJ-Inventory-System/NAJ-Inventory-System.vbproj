@@ -1,0 +1,493 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{AFAEB9B6-34E7-4A9C-9609-2EB81E6BF0CA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>WindowsApplication1.My.MyApplication</StartupObject>
+    <RootNamespace>WindowsApplication1</RootNamespace>
+    <AssemblyName>NAJ Inventory System</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Warren\Desktop\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>false</MapFileExtensions>
+    <ProductName>NAJ Inventory System</ProductName>
+    <PublisherName>Warren L. Tapawan</PublisherName>
+    <SuiteName>Warren</SuiteName>
+    <OpenBrowserOnPublish>false</OpenBrowserOnPublish>
+    <ApplicationRevision>16</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>false</BootstrapperEnabled>
+    <BootstrapperComponentsLocation>Relative</BootstrapperComponentsLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>NAJ Inventory System.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>NAJ Inventory System.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>A4397B84B3A31EDF835817CD4B3B3000BEAFD675</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>NAJ-Inventory-System_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>NAJ-ICON.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge, Version=2.2.5.0, Culture=neutral, PublicKeyToken=c1db6ff4eaa06aeb, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.2.2.5\lib\AForge.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video, Version=2.2.5.0, Culture=neutral, PublicKeyToken=cbfb6e07d173c401, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.Video.2.2.5\lib\AForge.Video.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video.DirectShow, Version=2.2.5.0, Culture=neutral, PublicKeyToken=61ea4348d43881b7, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.Video.DirectShow.2.2.5\lib\AForge.Video.DirectShow.dll</HintPath>
+    </Reference>
+    <Reference Include="ClosedXML, Version=0.95.4.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ClosedXML.0.95.4\lib\net40\ClosedXML.dll</HintPath>
+    </Reference>
+    <Reference Include="DocumentFormat.OpenXml, Version=2.7.2.0, Culture=neutral, PublicKeyToken=8fb06cb64d019a17, processorArchitecture=MSIL">
+      <HintPath>..\packages\DocumentFormat.OpenXml.2.7.2\lib\net40\DocumentFormat.OpenXml.dll</HintPath>
+    </Reference>
+    <Reference Include="ExcelNumberFormat, Version=1.0.10.0, Culture=neutral, PublicKeyToken=23c6f5d73be07eca, processorArchitecture=MSIL">
+      <HintPath>..\packages\ExcelNumberFormat.1.0.10\lib\net20\ExcelNumberFormat.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="QRCoder, Version=1.4.3.0, Culture=neutral, PublicKeyToken=c4ed5b9ae8358a28, processorArchitecture=MSIL">
+      <HintPath>..\packages\QRCoder.1.4.3\lib\net40\QRCoder.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="zxing, Version=0.16.8.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL">
+      <HintPath>..\packages\ZXing.Net.0.16.8\lib\net40\zxing.dll</HintPath>
+    </Reference>
+    <Reference Include="zxing.presentation, Version=0.16.8.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL">
+      <HintPath>..\packages\ZXing.Net.0.16.8\lib\net40\zxing.presentation.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Discount.Designer.vb">
+      <DependentUpon>Discount.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Discount.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QR_Labels.Designer.vb">
+      <DependentUpon>QR_Labels.vb</DependentUpon>
+    </Compile>
+    <Compile Include="QR_Labels.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports_Inventory.Designer.vb">
+      <DependentUpon>Reports_Inventory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reports_Inventory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports_Sold_Items.Designer.vb">
+      <DependentUpon>Reports_Sold_Items.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reports_Sold_Items.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Account-Access.Designer.vb">
+      <DependentUpon>Account-Access.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Account-Access.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Accounts.Designer.vb">
+      <DependentUpon>Accounts.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Accounts.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="3_POS.Designer.vb">
+      <DependentUpon>3_POS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="3_POS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Loading.Designer.vb">
+      <DependentUpon>Loading.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Loading.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product-Add-Product.Designer.vb">
+      <DependentUpon>Product-Add-Product.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Product-Add-Product.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1_Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1_Login.Designer.vb">
+      <DependentUpon>1_Login.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2_Home.Designer.vb">
+      <DependentUpon>2_Home.vb</DependentUpon>
+    </Compile>
+    <Compile Include="2_Home.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Product-History.Designer.vb">
+      <DependentUpon>Product-History.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Product-History.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product-List.Designer.vb">
+      <DependentUpon>Product-List.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Product-List.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Returned.Designer.vb">
+      <DependentUpon>Returned.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Returned.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stock-History.Designer.vb">
+      <DependentUpon>Stock-History.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Stock-History.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stock-Update-Stock.Designer.vb">
+      <DependentUpon>Stock-Update-Stock.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Stock-Update-Stock.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="_NAJ_DB___Add_Product_HistoryDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>_NAJ_DB___Add_Product_HistoryDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="_NAJ_DB___Add_Stock_HistoryDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>_NAJ_DB___Add_Stock_HistoryDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="_NAJ_DB___InventoryDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>_NAJ_DB___InventoryDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="_NAJ_DB___Purchased_ReportDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>_NAJ_DB___Purchased_ReportDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="_NAJ_DB___Purchased_ReportDataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>_NAJ_DB___Purchased_ReportDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="_NAJ_DB___QR_LabelsDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>_NAJ_DB___QR_LabelsDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="_NAJ_DB___Returned_ItemsDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>_NAJ_DB___Returned_ItemsDataSet.xsd</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="1_Login.resx">
+      <DependentUpon>1_Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2_Home.resx">
+      <DependentUpon>2_Home.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Discount.resx">
+      <DependentUpon>Discount.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QR_Labels.resx">
+      <DependentUpon>QR_Labels.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports_Inventory.resx">
+      <DependentUpon>Reports_Inventory.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports_Sold_Items.resx">
+      <DependentUpon>Reports_Sold_Items.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Account-Access.resx">
+      <DependentUpon>Account-Access.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Accounts.resx">
+      <DependentUpon>Accounts.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="3_POS.resx">
+      <DependentUpon>3_POS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Loading.resx">
+      <DependentUpon>Loading.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product-Add-Product.resx">
+      <DependentUpon>Product-Add-Product.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product-History.resx">
+      <DependentUpon>Product-History.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product-List.resx">
+      <DependentUpon>Product-List.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Returned.resx">
+      <DependentUpon>Returned.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stock-History.resx">
+      <DependentUpon>Stock-History.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stock-Update-Stock.resx">
+      <DependentUpon>Stock-Update-Stock.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="NAJ-Inventory-System_TemporaryKey.pfx" />
+    <None Include="packages.config" />
+    <None Include="_NAJ_DB___Add_Product_HistoryDataSet.xsc">
+      <DependentUpon>_NAJ_DB___Add_Product_HistoryDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="_NAJ_DB___Add_Product_HistoryDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>_NAJ_DB___Add_Product_HistoryDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="_NAJ_DB___Add_Product_HistoryDataSet.xss">
+      <DependentUpon>_NAJ_DB___Add_Product_HistoryDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="_NAJ_DB___Add_Stock_HistoryDataSet.xsc">
+      <DependentUpon>_NAJ_DB___Add_Stock_HistoryDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="_NAJ_DB___Add_Stock_HistoryDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>_NAJ_DB___Add_Stock_HistoryDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="_NAJ_DB___Add_Stock_HistoryDataSet.xss">
+      <DependentUpon>_NAJ_DB___Add_Stock_HistoryDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="_NAJ_DB___InventoryDataSet.xsc">
+      <DependentUpon>_NAJ_DB___InventoryDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="_NAJ_DB___InventoryDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>_NAJ_DB___InventoryDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="_NAJ_DB___InventoryDataSet.xss">
+      <DependentUpon>_NAJ_DB___InventoryDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="_NAJ_DB___Purchased_ReportDataSet.xsc">
+      <DependentUpon>_NAJ_DB___Purchased_ReportDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="_NAJ_DB___Purchased_ReportDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>_NAJ_DB___Purchased_ReportDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="_NAJ_DB___Purchased_ReportDataSet.xss">
+      <DependentUpon>_NAJ_DB___Purchased_ReportDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="_NAJ_DB___Purchased_ReportDataSet1.xsc">
+      <DependentUpon>_NAJ_DB___Purchased_ReportDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="_NAJ_DB___Purchased_ReportDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>_NAJ_DB___Purchased_ReportDataSet1.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="_NAJ_DB___Purchased_ReportDataSet1.xss">
+      <DependentUpon>_NAJ_DB___Purchased_ReportDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="_NAJ_DB___QR_LabelsDataSet.xsc">
+      <DependentUpon>_NAJ_DB___QR_LabelsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="_NAJ_DB___QR_LabelsDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>_NAJ_DB___QR_LabelsDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="_NAJ_DB___QR_LabelsDataSet.xss">
+      <DependentUpon>_NAJ_DB___QR_LabelsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="_NAJ_DB___Returned_ItemsDataSet.xsc">
+      <DependentUpon>_NAJ_DB___Returned_ItemsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="_NAJ_DB___Returned_ItemsDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>_NAJ_DB___Returned_ItemsDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="_NAJ_DB___Returned_ItemsDataSet.xss">
+      <DependentUpon>_NAJ_DB___Returned_ItemsDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>5</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cat-loading.gif" />
+    <None Include="Resources\Image1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="NAJ-DB - Add_Product_History.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="NAJ-DB - Add_Stock_History.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="NAJ-DB - Inventory.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="NAJ-DB - Purchased_Report.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="NAJ-DB - QR_Labels.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="NAJ-DB - Returned_Items.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="NAJ-ICON.ico" />
+    <None Include="Resources\NAJ-LOGO.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

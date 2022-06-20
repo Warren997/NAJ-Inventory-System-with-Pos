@@ -1,0 +1,1 @@
+1. Relocate the destination of database to download in form "Reports" the button thats says download database

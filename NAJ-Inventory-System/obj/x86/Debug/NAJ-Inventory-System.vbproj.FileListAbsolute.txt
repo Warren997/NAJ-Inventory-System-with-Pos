@@ -1,0 +1,624 @@
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 40\NAJ-Inventory-System\bin\Debug\NAJ-Inventory-System.exe.config
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 40\NAJ-Inventory-System\bin\Debug\NAJ-Inventory-System.exe
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 40\NAJ-Inventory-System\bin\Debug\NAJ-Inventory-System.pdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 40\NAJ-Inventory-System\bin\Debug\NAJ-Inventory-System.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 40\NAJ-Inventory-System\bin\Debug\AForge.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 40\NAJ-Inventory-System\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 40\NAJ-Inventory-System\bin\Debug\AForge.Video.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 40\NAJ-Inventory-System\bin\Debug\ClosedXML.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 40\NAJ-Inventory-System\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 40\NAJ-Inventory-System\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 40\NAJ-Inventory-System\bin\Debug\QRCoder.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 40\NAJ-Inventory-System\bin\Debug\zxing.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 40\NAJ-Inventory-System\bin\Debug\zxing.presentation.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 40\NAJ-Inventory-System\bin\Debug\AForge.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 40\NAJ-Inventory-System\bin\Debug\AForge.Video.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 40\NAJ-Inventory-System\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 40\NAJ-Inventory-System\bin\Debug\ClosedXML.pdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 40\NAJ-Inventory-System\bin\Debug\ClosedXML.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 40\NAJ-Inventory-System\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 40\NAJ-Inventory-System\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 40\NAJ-Inventory-System\bin\Debug\zxing.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 40\NAJ-Inventory-System\bin\Debug\zxing.presentation.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 40\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbprojAssemblyReference.cache
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 40\NAJ-Inventory-System\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 40\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbproj.ResolveComReference.cache
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 40\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Login.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 40\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Inventory.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 40\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Discount.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 40\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.QR_Labels.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 40\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Reports_Inventory.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 40\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Reports_Sold_Items.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 40\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Account_Access.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 40\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Accounts.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 40\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.POS.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 40\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Loading.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 40\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Add_New_Product.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 40\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 40\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Product_History.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 40\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Product_List.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 40\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Stock_History.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 40\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Stocks_Update_Stocks.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 40\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbproj.GenerateResource.cache
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 40\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbproj.CoreCompileInputs.cache
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 40\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbproj.CopyComplete
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 40\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.exe
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 40\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 40\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.pdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 41\NAJ-Inventory-System\bin\Debug\NAJ-Inventory-System.exe.config
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 41\NAJ-Inventory-System\bin\Debug\NAJ-Inventory-System.exe
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 41\NAJ-Inventory-System\bin\Debug\NAJ-Inventory-System.pdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 41\NAJ-Inventory-System\bin\Debug\NAJ-Inventory-System.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 41\NAJ-Inventory-System\bin\Debug\AForge.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 41\NAJ-Inventory-System\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 41\NAJ-Inventory-System\bin\Debug\AForge.Video.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 41\NAJ-Inventory-System\bin\Debug\ClosedXML.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 41\NAJ-Inventory-System\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 41\NAJ-Inventory-System\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 41\NAJ-Inventory-System\bin\Debug\QRCoder.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 41\NAJ-Inventory-System\bin\Debug\zxing.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 41\NAJ-Inventory-System\bin\Debug\zxing.presentation.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 41\NAJ-Inventory-System\bin\Debug\AForge.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 41\NAJ-Inventory-System\bin\Debug\AForge.Video.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 41\NAJ-Inventory-System\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 41\NAJ-Inventory-System\bin\Debug\ClosedXML.pdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 41\NAJ-Inventory-System\bin\Debug\ClosedXML.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 41\NAJ-Inventory-System\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 41\NAJ-Inventory-System\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 41\NAJ-Inventory-System\bin\Debug\zxing.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 41\NAJ-Inventory-System\bin\Debug\zxing.presentation.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 41\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbprojAssemblyReference.cache
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 41\NAJ-Inventory-System\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 41\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbproj.ResolveComReference.cache
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 41\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Login.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 41\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Inventory.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 41\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Discount.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 41\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.QR_Labels.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 41\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Reports_Inventory.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 41\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Reports_Sold_Items.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 41\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Account_Access.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 41\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Accounts.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 41\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.POS.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 41\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Loading.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 41\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Add_New_Product.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 41\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 41\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Product_History.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 41\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Product_List.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 41\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Stock_History.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 41\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Stocks_Update_Stocks.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 41\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbproj.GenerateResource.cache
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 41\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbproj.CoreCompileInputs.cache
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 41\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbproj.CopyComplete
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 41\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.exe
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 41\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 41\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.pdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 42\NAJ-Inventory-System\bin\Debug\NAJ-Inventory-System.exe.config
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 42\NAJ-Inventory-System\bin\Debug\NAJ-Inventory-System.exe
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 42\NAJ-Inventory-System\bin\Debug\NAJ-Inventory-System.pdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 42\NAJ-Inventory-System\bin\Debug\NAJ-Inventory-System.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 42\NAJ-Inventory-System\bin\Debug\AForge.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 42\NAJ-Inventory-System\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 42\NAJ-Inventory-System\bin\Debug\AForge.Video.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 42\NAJ-Inventory-System\bin\Debug\ClosedXML.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 42\NAJ-Inventory-System\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 42\NAJ-Inventory-System\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 42\NAJ-Inventory-System\bin\Debug\QRCoder.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 42\NAJ-Inventory-System\bin\Debug\zxing.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 42\NAJ-Inventory-System\bin\Debug\zxing.presentation.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 42\NAJ-Inventory-System\bin\Debug\AForge.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 42\NAJ-Inventory-System\bin\Debug\AForge.Video.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 42\NAJ-Inventory-System\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 42\NAJ-Inventory-System\bin\Debug\ClosedXML.pdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 42\NAJ-Inventory-System\bin\Debug\ClosedXML.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 42\NAJ-Inventory-System\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 42\NAJ-Inventory-System\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 42\NAJ-Inventory-System\bin\Debug\zxing.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 42\NAJ-Inventory-System\bin\Debug\zxing.presentation.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 42\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbprojAssemblyReference.cache
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 42\NAJ-Inventory-System\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 42\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbproj.ResolveComReference.cache
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 42\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Login.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 42\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Inventory.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 42\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Discount.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 42\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.QR_Labels.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 42\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Reports_Inventory.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 42\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Reports_Sold_Items.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 42\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Account_Access.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 42\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Accounts.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 42\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.POS.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 42\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Loading.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 42\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Add_New_Product.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 42\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 42\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Product_History.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 42\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Product_List.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 42\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Stock_History.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 42\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Stocks_Update_Stocks.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 42\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbproj.GenerateResource.cache
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 42\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbproj.CoreCompileInputs.cache
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 42\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbproj.CopyComplete
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 42\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.exe
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 42\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 42\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.pdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 42\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Returned.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 43\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbprojAssemblyReference.cache
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 43\NAJ-Inventory-System\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 43\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbproj.ResolveComReference.cache
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 43\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Login.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 43\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Inventory.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 43\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Discount.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 43\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.QR_Labels.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 43\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Reports_Inventory.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 43\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Reports_Sold_Items.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 43\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Account_Access.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 43\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Accounts.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 43\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.POS.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 43\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Loading.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 43\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Add_New_Product.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 43\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 43\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Product_History.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 43\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Product_List.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 43\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Returned.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 43\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Stock_History.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 43\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Stocks_Update_Stocks.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 43\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbproj.GenerateResource.cache
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 43\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbproj.CoreCompileInputs.cache
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 43\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.exe
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 43\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 43\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.pdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 43\NAJ-Inventory-System\bin\Debug\NAJ-Inventory-System.exe.config
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 43\NAJ-Inventory-System\bin\Debug\NAJ-Inventory-System.exe
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 43\NAJ-Inventory-System\bin\Debug\NAJ-Inventory-System.pdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 43\NAJ-Inventory-System\bin\Debug\NAJ-Inventory-System.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 43\NAJ-Inventory-System\bin\Debug\AForge.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 43\NAJ-Inventory-System\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 43\NAJ-Inventory-System\bin\Debug\AForge.Video.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 43\NAJ-Inventory-System\bin\Debug\ClosedXML.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 43\NAJ-Inventory-System\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 43\NAJ-Inventory-System\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 43\NAJ-Inventory-System\bin\Debug\QRCoder.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 43\NAJ-Inventory-System\bin\Debug\zxing.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 43\NAJ-Inventory-System\bin\Debug\zxing.presentation.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 43\NAJ-Inventory-System\bin\Debug\AForge.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 43\NAJ-Inventory-System\bin\Debug\AForge.Video.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 43\NAJ-Inventory-System\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 43\NAJ-Inventory-System\bin\Debug\ClosedXML.pdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 43\NAJ-Inventory-System\bin\Debug\ClosedXML.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 43\NAJ-Inventory-System\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 43\NAJ-Inventory-System\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 43\NAJ-Inventory-System\bin\Debug\zxing.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 43\NAJ-Inventory-System\bin\Debug\zxing.presentation.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 43\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbproj.CopyComplete
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 44\NAJ-Inventory-System\bin\Debug\NAJ-Inventory-System.exe.config
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 44\NAJ-Inventory-System\bin\Debug\NAJ-Inventory-System.exe
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 44\NAJ-Inventory-System\bin\Debug\NAJ-Inventory-System.pdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 44\NAJ-Inventory-System\bin\Debug\NAJ-Inventory-System.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 44\NAJ-Inventory-System\bin\Debug\AForge.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 44\NAJ-Inventory-System\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 44\NAJ-Inventory-System\bin\Debug\AForge.Video.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 44\NAJ-Inventory-System\bin\Debug\ClosedXML.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 44\NAJ-Inventory-System\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 44\NAJ-Inventory-System\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 44\NAJ-Inventory-System\bin\Debug\QRCoder.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 44\NAJ-Inventory-System\bin\Debug\zxing.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 44\NAJ-Inventory-System\bin\Debug\zxing.presentation.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 44\NAJ-Inventory-System\bin\Debug\AForge.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 44\NAJ-Inventory-System\bin\Debug\AForge.Video.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 44\NAJ-Inventory-System\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 44\NAJ-Inventory-System\bin\Debug\ClosedXML.pdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 44\NAJ-Inventory-System\bin\Debug\ClosedXML.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 44\NAJ-Inventory-System\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 44\NAJ-Inventory-System\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 44\NAJ-Inventory-System\bin\Debug\zxing.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 44\NAJ-Inventory-System\bin\Debug\zxing.presentation.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 44\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbprojAssemblyReference.cache
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 44\NAJ-Inventory-System\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 44\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbproj.ResolveComReference.cache
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 44\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Login.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 44\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Inventory.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 44\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Discount.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 44\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.QR_Labels.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 44\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Reports_Inventory.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 44\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Reports_Sold_Items.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 44\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Account_Access.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 44\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Accounts.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 44\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.POS.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 44\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Loading.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 44\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Add_New_Product.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 44\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 44\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Product_History.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 44\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Product_List.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 44\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Returned.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 44\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Stock_History.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 44\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Stocks_Update_Stocks.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 44\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbproj.GenerateResource.cache
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 44\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbproj.CoreCompileInputs.cache
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 44\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbproj.CopyComplete
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 44\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.exe
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 44\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 44\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.pdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 46\NAJ-Inventory-System\bin\Debug\NAJ-Inventory-System.exe.config
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 46\NAJ-Inventory-System\bin\Debug\NAJ-Inventory-System.exe
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 46\NAJ-Inventory-System\bin\Debug\NAJ-Inventory-System.pdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 46\NAJ-Inventory-System\bin\Debug\NAJ-Inventory-System.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 46\NAJ-Inventory-System\bin\Debug\AForge.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 46\NAJ-Inventory-System\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 46\NAJ-Inventory-System\bin\Debug\AForge.Video.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 46\NAJ-Inventory-System\bin\Debug\ClosedXML.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 46\NAJ-Inventory-System\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 46\NAJ-Inventory-System\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 46\NAJ-Inventory-System\bin\Debug\QRCoder.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 46\NAJ-Inventory-System\bin\Debug\zxing.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 46\NAJ-Inventory-System\bin\Debug\zxing.presentation.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 46\NAJ-Inventory-System\bin\Debug\AForge.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 46\NAJ-Inventory-System\bin\Debug\AForge.Video.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 46\NAJ-Inventory-System\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 46\NAJ-Inventory-System\bin\Debug\ClosedXML.pdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 46\NAJ-Inventory-System\bin\Debug\ClosedXML.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 46\NAJ-Inventory-System\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 46\NAJ-Inventory-System\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 46\NAJ-Inventory-System\bin\Debug\zxing.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 46\NAJ-Inventory-System\bin\Debug\zxing.presentation.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 46\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbprojAssemblyReference.cache
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 46\NAJ-Inventory-System\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 46\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbproj.ResolveComReference.cache
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 46\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Login.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 46\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Inventory.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 46\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Discount.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 46\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.QR_Labels.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 46\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Reports_Inventory.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 46\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Reports_Sold_Items.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 46\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Account_Access.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 46\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Accounts.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 46\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.POS.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 46\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Loading.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 46\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Add_New_Product.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 46\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 46\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Product_History.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 46\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Product_List.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 46\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Returned.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 46\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Stock_History.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 46\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Stocks_Update_Stocks.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 46\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbproj.GenerateResource.cache
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 46\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbproj.CoreCompileInputs.cache
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 46\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbproj.CopyComplete
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 46\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.exe
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 46\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 46\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.pdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 47\NAJ-Inventory-System\bin\Debug\NAJ-Inventory-System.exe.config
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 47\NAJ-Inventory-System\bin\Debug\NAJ-Inventory-System.exe
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 47\NAJ-Inventory-System\bin\Debug\NAJ-Inventory-System.pdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 47\NAJ-Inventory-System\bin\Debug\NAJ-Inventory-System.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 47\NAJ-Inventory-System\bin\Debug\AForge.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 47\NAJ-Inventory-System\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 47\NAJ-Inventory-System\bin\Debug\AForge.Video.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 47\NAJ-Inventory-System\bin\Debug\ClosedXML.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 47\NAJ-Inventory-System\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 47\NAJ-Inventory-System\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 47\NAJ-Inventory-System\bin\Debug\QRCoder.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 47\NAJ-Inventory-System\bin\Debug\zxing.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 47\NAJ-Inventory-System\bin\Debug\zxing.presentation.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 47\NAJ-Inventory-System\bin\Debug\AForge.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 47\NAJ-Inventory-System\bin\Debug\AForge.Video.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 47\NAJ-Inventory-System\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 47\NAJ-Inventory-System\bin\Debug\ClosedXML.pdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 47\NAJ-Inventory-System\bin\Debug\ClosedXML.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 47\NAJ-Inventory-System\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 47\NAJ-Inventory-System\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 47\NAJ-Inventory-System\bin\Debug\zxing.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 47\NAJ-Inventory-System\bin\Debug\zxing.presentation.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 47\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbprojAssemblyReference.cache
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 47\NAJ-Inventory-System\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 47\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbproj.ResolveComReference.cache
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 47\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Login.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 47\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Inventory.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 47\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Discount.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 47\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.QR_Labels.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 47\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Reports_Inventory.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 47\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Reports_Sold_Items.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 47\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Account_Access.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 47\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Accounts.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 47\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.POS.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 47\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Loading.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 47\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Add_New_Product.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 47\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 47\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Product_History.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 47\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Product_List.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 47\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Returned.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 47\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Stock_History.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 47\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Stocks_Update_Stocks.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 47\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbproj.GenerateResource.cache
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 47\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbproj.CoreCompileInputs.cache
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 47\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbproj.CopyComplete
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 47\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.exe
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 47\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 47\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.pdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\bin\Debug\AForge.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\bin\Debug\AForge.Video.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\bin\Debug\ClosedXML.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\bin\Debug\QRCoder.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\bin\Debug\zxing.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\bin\Debug\zxing.presentation.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\bin\Debug\AForge.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\bin\Debug\AForge.Video.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\bin\Debug\ClosedXML.pdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\bin\Debug\ClosedXML.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\bin\Debug\zxing.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\bin\Debug\zxing.presentation.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbprojAssemblyReference.cache
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbproj.ResolveComReference.cache
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Login.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Inventory.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Discount.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.QR_Labels.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Reports_Inventory.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Reports_Sold_Items.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Account_Access.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Accounts.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.POS.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Loading.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Add_New_Product.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Product_History.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Product_List.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Returned.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Stock_History.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Stocks_Update_Stocks.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbproj.GenerateResource.cache
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbproj.CoreCompileInputs.cache
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbproj.CopyComplete
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\bin\Debug\NAJ-DB - Inventory.accdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\bin\Debug\NAJ-DB - Add_Product_History.accdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\bin\Debug\NAJ-DB - Add_Stock_History.accdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\bin\Debug\NAJ-DB - Purchased_Report.accdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\bin\Debug\NAJ-DB - QR_Labels.accdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\bin\Debug\NAJ-DB - Returned_Items.accdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\bin\Debug\NAJ Inventory System.exe.config
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\bin\Debug\NAJ Inventory System.exe.manifest
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\bin\Debug\NAJ Inventory System.application
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\bin\Debug\NAJ Inventory System.exe
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\bin\Debug\NAJ Inventory System.pdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\bin\Debug\NAJ Inventory System.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\obj\x86\Debug\NAJ Inventory System.exe.manifest
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\obj\x86\Debug\NAJ Inventory System.application
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\obj\x86\Debug\NAJ Inventory System.exe
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\obj\x86\Debug\NAJ Inventory System.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 48\NAJ-Inventory-System\obj\x86\Debug\NAJ Inventory System.pdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\bin\Debug\NAJ-DB - Add_Product_History.accdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\bin\Debug\NAJ-DB - Add_Stock_History.accdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\bin\Debug\NAJ-DB - Inventory.accdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\bin\Debug\NAJ-DB - Purchased_Report.accdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\bin\Debug\NAJ-DB - QR_Labels.accdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\bin\Debug\NAJ-DB - Returned_Items.accdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\bin\Debug\NAJ Inventory System.exe.config
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\bin\Debug\NAJ Inventory System.exe.manifest
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\bin\Debug\NAJ Inventory System.application
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\bin\Debug\NAJ Inventory System.exe
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\bin\Debug\NAJ Inventory System.pdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\bin\Debug\NAJ Inventory System.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\bin\Debug\AForge.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\bin\Debug\AForge.Video.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\bin\Debug\ClosedXML.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\bin\Debug\QRCoder.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\bin\Debug\zxing.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\bin\Debug\zxing.presentation.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\bin\Debug\AForge.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\bin\Debug\AForge.Video.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\bin\Debug\ClosedXML.pdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\bin\Debug\ClosedXML.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\bin\Debug\zxing.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\bin\Debug\zxing.presentation.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbprojAssemblyReference.cache
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbproj.ResolveComReference.cache
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Login.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Inventory.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Discount.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.QR_Labels.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Reports_Inventory.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Reports_Sold_Items.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Account_Access.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Accounts.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.POS.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Loading.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Add_New_Product.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Product_History.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Product_List.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Returned.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Stock_History.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Stocks_Update_Stocks.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbproj.GenerateResource.cache
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbproj.CoreCompileInputs.cache
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\obj\x86\Debug\NAJ Inventory System.exe.manifest
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\obj\x86\Debug\NAJ Inventory System.application
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbproj.CopyComplete
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\obj\x86\Debug\NAJ Inventory System.exe
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\obj\x86\Debug\NAJ Inventory System.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 49\NAJ-Inventory-System\obj\x86\Debug\NAJ Inventory System.pdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\bin\Debug\NAJ-DB - Add_Product_History.accdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\bin\Debug\NAJ-DB - Add_Stock_History.accdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\bin\Debug\NAJ-DB - Inventory.accdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\bin\Debug\NAJ-DB - Purchased_Report.accdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\bin\Debug\NAJ-DB - QR_Labels.accdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\bin\Debug\NAJ-DB - Returned_Items.accdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\bin\Debug\NAJ Inventory System.exe.config
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\bin\Debug\NAJ Inventory System.exe.manifest
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\bin\Debug\NAJ Inventory System.application
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\bin\Debug\NAJ Inventory System.exe
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\bin\Debug\NAJ Inventory System.pdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\bin\Debug\NAJ Inventory System.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\bin\Debug\AForge.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\bin\Debug\AForge.Video.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\bin\Debug\ClosedXML.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\bin\Debug\QRCoder.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\bin\Debug\zxing.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\bin\Debug\zxing.presentation.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\bin\Debug\AForge.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\bin\Debug\AForge.Video.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\bin\Debug\ClosedXML.pdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\bin\Debug\ClosedXML.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\bin\Debug\zxing.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\bin\Debug\zxing.presentation.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbprojAssemblyReference.cache
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbproj.ResolveComReference.cache
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Login.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Inventory.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Discount.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.QR_Labels.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Reports_Inventory.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Reports_Sold_Items.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Account_Access.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Accounts.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.POS.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Loading.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Add_New_Product.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Product_History.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Product_List.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Returned.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Stock_History.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Stocks_Update_Stocks.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbproj.GenerateResource.cache
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbproj.CoreCompileInputs.cache
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\obj\x86\Debug\NAJ Inventory System.exe.manifest
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\obj\x86\Debug\NAJ Inventory System.application
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbproj.CopyComplete
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\obj\x86\Debug\NAJ Inventory System.exe
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\obj\x86\Debug\NAJ Inventory System.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 50\NAJ-Inventory-System\obj\x86\Debug\NAJ Inventory System.pdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\bin\Debug\NAJ-DB - Add_Product_History.accdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\bin\Debug\NAJ-DB - Add_Stock_History.accdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\bin\Debug\NAJ-DB - Inventory.accdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\bin\Debug\NAJ-DB - Purchased_Report.accdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\bin\Debug\NAJ-DB - QR_Labels.accdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\bin\Debug\NAJ-DB - Returned_Items.accdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\bin\Debug\NAJ Inventory System.exe.config
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\bin\Debug\NAJ Inventory System.exe.manifest
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\bin\Debug\NAJ Inventory System.application
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\bin\Debug\NAJ Inventory System.exe
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\bin\Debug\NAJ Inventory System.pdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\bin\Debug\NAJ Inventory System.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\bin\Debug\AForge.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\bin\Debug\AForge.Video.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\bin\Debug\ClosedXML.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\bin\Debug\QRCoder.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\bin\Debug\zxing.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\bin\Debug\zxing.presentation.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\bin\Debug\AForge.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\bin\Debug\AForge.Video.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\bin\Debug\ClosedXML.pdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\bin\Debug\ClosedXML.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\bin\Debug\zxing.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\bin\Debug\zxing.presentation.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbprojAssemblyReference.cache
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbproj.ResolveComReference.cache
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Login.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Inventory.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Discount.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.QR_Labels.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Reports_Inventory.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Reports_Sold_Items.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Account_Access.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Accounts.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.POS.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Loading.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Add_New_Product.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Product_History.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Product_List.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Returned.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Stock_History.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Stocks_Update_Stocks.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbproj.GenerateResource.cache
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbproj.CoreCompileInputs.cache
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\obj\x86\Debug\NAJ Inventory System.exe.manifest
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\obj\x86\Debug\NAJ Inventory System.application
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbproj.CopyComplete
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\obj\x86\Debug\NAJ Inventory System.exe
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\obj\x86\Debug\NAJ Inventory System.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 51\NAJ-Inventory-System\obj\x86\Debug\NAJ Inventory System.pdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\bin\Debug\NAJ-DB - Add_Product_History.accdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\bin\Debug\NAJ-DB - Add_Stock_History.accdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\bin\Debug\NAJ-DB - Inventory.accdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\bin\Debug\NAJ-DB - Purchased_Report.accdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\bin\Debug\NAJ-DB - QR_Labels.accdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\bin\Debug\NAJ-DB - Returned_Items.accdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\bin\Debug\NAJ Inventory System.exe.config
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\bin\Debug\NAJ Inventory System.exe.manifest
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\bin\Debug\NAJ Inventory System.application
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\bin\Debug\NAJ Inventory System.exe
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\bin\Debug\NAJ Inventory System.pdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\bin\Debug\NAJ Inventory System.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\bin\Debug\AForge.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\bin\Debug\AForge.Video.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\bin\Debug\ClosedXML.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\bin\Debug\QRCoder.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\bin\Debug\zxing.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\bin\Debug\zxing.presentation.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\bin\Debug\AForge.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\bin\Debug\AForge.Video.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\bin\Debug\ClosedXML.pdb
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\bin\Debug\ClosedXML.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\bin\Debug\zxing.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\bin\Debug\zxing.presentation.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbprojAssemblyReference.cache
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbproj.ResolveComReference.cache
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Login.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Inventory.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Discount.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.QR_Labels.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Reports_Inventory.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Reports_Sold_Items.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Account_Access.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Accounts.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.POS.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Loading.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Add_New_Product.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Product_History.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Product_List.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Returned.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Stock_History.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\obj\x86\Debug\WindowsApplication1.Stocks_Update_Stocks.resources
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbproj.GenerateResource.cache
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbproj.CoreCompileInputs.cache
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\obj\x86\Debug\NAJ Inventory System.exe.manifest
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\obj\x86\Debug\NAJ Inventory System.application
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\obj\x86\Debug\NAJ-Inventory-System.vbproj.CopyComplete
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\obj\x86\Debug\NAJ Inventory System.exe
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\obj\x86\Debug\NAJ Inventory System.xml
+C:\Users\Warren\Desktop\##NAJ-Invt-system\NAJ-Inventory-System - 52\NAJ-Inventory-System\obj\x86\Debug\NAJ Inventory System.pdb
